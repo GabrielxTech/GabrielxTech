@@ -34,7 +34,7 @@ Tenho conhecimento em C#, Python, SQL e ferramentas como Visual Studio e DBeaver
 
 ## Contato
 
-📧 gabrielxavier05souza@gmail.com  
+📧 gabrielxavier.tech@gmail.com  
 📱 (11) 96596-8316  
 🌐 [LinkedIn](www.linkedin.com/in/gabriel-xavier-17731437a)  
 🌐 [GitHub](https://github.com/GabrielxTech)  
