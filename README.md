@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor C# | Engenharia de Testes | Automação Industrial  
 🎓 Estudante de Ciência da Computação (4º semestre)  
-🌍 Baseado em São Paulo – SP, Brasil  
+🌍 Baseado em São Paulo – SP, Brasil    
 
 ---
 
@@ -41,4 +41,4 @@ Tenho conhecimento em C#, Python, SQL e ferramentas como Visual Studio e DBeaver
 
 ---
 
-Obrigado por visitar meu perfil! 🚀
+Obrigado por visitar meu perfil! 🚀 
